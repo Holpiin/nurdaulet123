@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Путь и сертификаты">
+<defs><linearGradient id="lg" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="960" y2="0"><stop offset="0" stop-color="#5b7cff"/><stop offset=".5" stop-color="#35d6f2"/><stop offset="1" stop-color="#c792ea"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5b7cff" stroke-opacity=".1"/></pattern></defs>
+<rect x=".5" y=".5" width="999" height="339" rx="18" fill="#0b1020" stroke="#26305a"/><rect width="1000" height="340" rx="18" fill="url(#grid)"/>
+<path d="M40 180H960" stroke="url(#lg)" stroke-width="3" stroke-linecap="round" stroke-opacity=".8"/>
+<circle r="5" fill="#fff"><animateMotion dur="7s" repeatCount="indefinite" path="M40 180H960"/></circle>
+<path d="M135 162V171" stroke="#5b7cff" stroke-opacity=".6"/>
+<circle cx="135" cy="180" r="9" fill="none" stroke="#5b7cff"><animate attributeName="r" values="9;20" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="135" cy="180" r="8" fill="#0b1020" stroke="#5b7cff" stroke-width="3"/>
+<text x="135" y="64" text-anchor="middle" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="15" fill="#5b7cff">05–22 мая 2026</text>
+<text x="135" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#e8ecfb">Цифровые двойники</text>
+<text x="135" y="116" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">КазНУ им. аль-Фараби,</text>
+<text x="135" y="134" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">72 часа, № 37-13-86</text>
+<path d="M325 189V198" stroke="#35d6f2" stroke-opacity=".6"/>
+<circle cx="325" cy="180" r="9" fill="none" stroke="#35d6f2"><animate attributeName="r" values="9;20" dur="2.6s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="325" cy="180" r="8" fill="#0b1020" stroke="#35d6f2" stroke-width="3"/>
+<text x="325" y="232" text-anchor="middle" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="15" fill="#35d6f2">11 июня 2026</text>
+<text x="325" y="258" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#e8ecfb">Process Mining</text>
+<text x="325" y="280" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">Digital Twin Lab, PM4Py</text>
+<text x="325" y="298" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">проект защищён</text>
+<path d="M510 162V171" stroke="#ffb547" stroke-opacity=".6"/>
+<circle cx="510" cy="180" r="9" fill="none" stroke="#ffb547"><animate attributeName="r" values="9;20" dur="2.6s" begin="1.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="510" cy="180" r="8" fill="#0b1020" stroke="#ffb547" stroke-width="3"/>
+<text x="510" y="64" text-anchor="middle" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="15" fill="#ffb547">17 июня 2026</text>
+<text x="510" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#e8ecfb">Mendix Rapid Developer</text>
+<text x="510" y="116" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">Mendix, сертификат № 110857</text>
+<path d="M695 189V198" stroke="#3ddc97" stroke-opacity=".6"/>
+<circle cx="695" cy="180" r="9" fill="none" stroke="#3ddc97"><animate attributeName="r" values="9;20" dur="2.6s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="695" cy="180" r="8" fill="#0b1020" stroke="#3ddc97" stroke-width="3"/>
+<text x="695" y="232" text-anchor="middle" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="15" fill="#3ddc97">2026</text>
+<text x="695" y="258" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#e8ecfb">Симуляция в JaamSim</text>
+<text x="695" y="280" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">Digital Twin Lab,</text>
+<text x="695" y="298" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">модель производства</text>
+<path d="M865 162V171" stroke="#c792ea" stroke-opacity=".6"/>
+<circle cx="865" cy="180" r="9" fill="none" stroke="#c792ea"><animate attributeName="r" values="9;20" dur="2.6s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="2.6s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="865" cy="180" r="8" fill="#0b1020" stroke="#c792ea" stroke-width="3"/>
+<text x="865" y="64" text-anchor="middle" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="15" fill="#c792ea">2027</text>
+<text x="865" y="92" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#e8ecfb">Бакалавр</text>
+<text x="865" y="116" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">Алматинский технологический</text>
+<text x="865" y="134" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">университет,</text>
+<text x="865" y="152" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8a96b8">программная инженерия</text>
+</svg>

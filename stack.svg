@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="224" viewBox="0 0 1000 224" role="img" aria-label="Технологии">
+<rect x="12" y="1" width="312" height="222" rx="16" fill="#0f1630" stroke="#26305a"/>
+<text x="36" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#5b7cff">Языки</text>
+<rect x="36" y="58" width="264" height="38" rx="10" fill="#162049" stroke="#5b7cff" stroke-opacity=".45"/>
+<circle cx="58" cy="77" r="5" fill="#5b7cff"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="76" y="83" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">Java</text>
+<rect x="36" y="108" width="264" height="38" rx="10" fill="#162049" stroke="#5b7cff" stroke-opacity=".45"/>
+<circle cx="58" cy="127" r="5" fill="#5b7cff"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<text x="76" y="133" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">Python</text>
+<rect x="36" y="158" width="264" height="38" rx="10" fill="#162049" stroke="#5b7cff" stroke-opacity=".45"/>
+<circle cx="58" cy="177" r="5" fill="#5b7cff"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="76" y="183" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">HTML</text>
+<rect x="344" y="1" width="312" height="222" rx="16" fill="#0f1630" stroke="#26305a"/>
+<text x="368" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#35d6f2">Данные</text>
+<rect x="368" y="58" width="264" height="38" rx="10" fill="#162049" stroke="#35d6f2" stroke-opacity=".45"/>
+<circle cx="390" cy="77" r="5" fill="#35d6f2"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="408" y="83" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">PostgreSQL</text>
+<rect x="368" y="108" width="264" height="38" rx="10" fill="#162049" stroke="#35d6f2" stroke-opacity=".45"/>
+<circle cx="390" cy="127" r="5" fill="#35d6f2"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<text x="408" y="133" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">PM4Py</text>
+<rect x="368" y="158" width="264" height="38" rx="10" fill="#162049" stroke="#35d6f2" stroke-opacity=".45"/>
+<circle cx="390" cy="177" r="5" fill="#35d6f2"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<text x="408" y="183" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">Process Mining</text>
+<rect x="676" y="1" width="312" height="222" rx="16" fill="#0f1630" stroke="#26305a"/>
+<text x="700" y="38" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="800" font-size="19" fill="#ffb547">Инструменты</text>
+<rect x="700" y="58" width="264" height="38" rx="10" fill="#162049" stroke="#ffb547" stroke-opacity=".45"/>
+<circle cx="722" cy="77" r="5" fill="#ffb547"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="740" y="83" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">Git</text>
+<rect x="700" y="108" width="264" height="38" rx="10" fill="#162049" stroke="#ffb547" stroke-opacity=".45"/>
+<circle cx="722" cy="127" r="5" fill="#ffb547"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<text x="740" y="133" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">JaamSim</text>
+<rect x="700" y="158" width="264" height="38" rx="10" fill="#162049" stroke="#ffb547" stroke-opacity=".45"/>
+<circle cx="722" cy="177" r="5" fill="#ffb547"><animate attributeName="r" values="3.5;6;3.5" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></circle>
+<text x="740" y="183" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600" font-size="17" fill="#e8ecfb">Mendix</text>
+</svg>
